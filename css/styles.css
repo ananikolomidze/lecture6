@@ -52,6 +52,7 @@ font-weight: 700;
 line-height: 28.13px;
 text-align: left;
 margin-left: 85px;
+margin-bottom: 30px;
 }
 
 .content,.content1, .content2{
@@ -203,15 +204,30 @@ margin-left: 85px;
 	font-weight: 700;
 	color: #8A8787;
 	vertical-align: middle;
+
 }
-section,.pic{
+section.pic{
 margin-left: 60px;
    
 }
 
 .pic1{
 	margin-top: 20px;
+	margin-bottom: 30px;
+	width: 758px;
+height: 430px;
+border-radius: 5px 0px 0px 0px;
+
+
 }
 .pic2:{
 	padding-top: 20px;
+	width: 758px;
+height: 430px;
+
+
+}
+
+.pic1,.pic3{
+	display: inline-block;
 }
